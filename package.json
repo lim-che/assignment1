@@ -1,5 +1,5 @@
 {
-  "homepage": "https://prof-tejera.github.io/assignment-1-lim-che/",
+  "homepage": "https://lim-che.github.io/assignment1/",
   "name": "assignment-1",
   "version": "0.1.0",
   "private": true,
@@ -33,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
